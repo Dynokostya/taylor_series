@@ -1,0 +1,5 @@
+﻿  KR.cpp
+C:\Users\dynokostya\OneDrive\Documents\Study\Programming\Visual\KR\KR\KR\KR.cpp(104,27): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\dynokostya\OneDrive\Documents\Study\Programming\Visual\KR\KR\KR\KR.cpp(268,14): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\dynokostya\OneDrive\Documents\Study\Programming\Visual\KR\KR\KR\KR.cpp(283,22): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+  KR.vcxproj -> C:\Users\dynokostya\OneDrive\Documents\Study\Programming\Visual\KR\KR\x64\Debug\KR.exe
